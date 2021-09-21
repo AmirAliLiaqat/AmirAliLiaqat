@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmirAliLiaqat 
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning BSCS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning BSCS.
+- 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me amirliaqat2020@gmail.com 03090886518
 
 <!---
