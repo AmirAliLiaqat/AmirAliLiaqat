@@ -1,43 +1,72 @@
-
 <h1 align="center">Hi 👋, I'm Amir Ali Liaqat</h1>
-<h3 align="center">I am a passionate web developer with expertise in HTML5, CSS3, Bootstrap 5, WordPress, and Elementor and currently diving into the world of MERN stack development.</h3>
+<h3 align="center">
+  I am a passionate web developer with expertise in HTML5, CSS3, Bootstrap 5, WordPress, and Elementor and currently diving into the world of MERN stack development.
+</h3>
+
+<img src="https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064" />
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/amir-ali-liaqat" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/amirliaqat0309?logo=linkedin&style=for-the-badge" alt="amir-ali-liaqat" />
+      </a>
+      <br /><br />
+      <img src="https://komarev.com/ghpvc/?username=amiraliliaqat&label=Profile%20views&color=0e75b6&style=flat" alt="amiraliliaqat" />
+      <br /><br />
+      <ul>
+        <li>👨‍💻 All of my projects are available at <a href="https://amir-ali-liaqat.vercel.app">My Portfolio</a></li><br />
+        <li>📝 I regularly write articles on <a href="http://byte.likesyou.org/blog">Blogging Site</a></li><br />
+        <li>📫 How to reach me: <a href="mailto:amirliaqat2020@gmail.com">Gmail</a> | <a href="tel:+923090886518">Phone</a></li><br />
+        <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1DbTAm4LucVcbPvsDsaBpq2whymNxCWEC/view">My Resume</a></li><br />
+      </ul>
+    </td>
+    <td>
+      <img alt="coding" width="550" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+    </td>
+  </tr>
+</table>
 
 <div>
-  <div align="left">
-    <img src="https://komarev.com/ghpvc/?username=amiraliliaqat&label=Profile%20views&color=0e75b6&style=flat" alt="amiraliliaqat" />
-    <a href="https://www.linkedin.com/in/amir-ali-liaqat" target="blank">
-      <img src="https://img.shields.io/twitter/follow/amirliaqat0309?logo=twitter&style=for-the-badge" alt="amirliaqat0309" />
-    </a>
-    
-  - 👨‍💻 All of my projects are available at [https://amir-ali-liaqat.vercel.app](https://amir-ali-liaqat.vercel.app)
+  <h3>Tech Stacks:</h3>
 
-  - 📝 I regularly write articles on [http://byte.likesyou.org/blog](http://byte.likesyou.org/blog)
+  - Frontend Technologies **Html5, Css3, Bootstrap5, JavaScript, React, Redux, Recoil, MUI, WordPress, Woocommerce, Elementor**
+  
+  - Backend Technologies **NodeJS, Express, PHP**
 
-  - 📫 How to reach me **amirliaqat2020@gmail.com**
+  - DataBase **MongoDB, MySql**
 
-  - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1DbTAm4LucVcbPvsDsaBpq2whymNxCWEC/view)
+  - Other Tools **Git, GitHub, VSCode, Vercel, Netlify, Docker, Xampp**
+</div>
+<br />
 
-  - 💬 Ask me about **React, MongoDB, Express, Node Js, Html5, Css3, Bootstrap5, JavaScript, PHP, WordPress, Woocommerce and Elementor**
-  </div>
-
-  <div align="right">
-    <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-  </div>
+<div> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=amiraliliaqat" alt="amiraliliaqat" />
+  </a> 
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amiraliliaqat" alt="amiraliliaqat" /></a> </p>
+<div>
+  <h3>Connect with me:</h3>
+  <a href="https://twitter.com/amirliaqat0309" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirliaqat0309" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/amir-ali-liaqat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-ali-liaqat-a98315222" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/17892542" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17892542" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/mehar.amir.ali.liaqat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehar.amir.ali.liaqat" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/amir.ali.liaqat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehar.amir.liaqat" height="30" width="40" />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amirliaqat0309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirliaqat0309" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amir-ali-liaqat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-ali-liaqat-a98315222" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17892542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17892542" height="30" width="40" /></a>
-<a href="https://fb.com/mehar.amir.ali.liaqat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehar.amir.ali.liaqat" height="30" width="40" /></a>
-<a href="https://instagram.com/amir.ali.liaqat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehar.amir.liaqat" height="30" width="40" /></a>
-</p>
-
-<h3>Languages and Tools:</h3>
 <div> 
+  <h3>Languages and Tools:</h3>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
@@ -99,7 +128,7 @@
 </br>
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiraliliaqat&" alt="amiraliliaqat" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiraliliaqat&show_icons=true&locale=en&layout=compact" alt="amiraliliaqat" /> &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amiraliliaqat&show_icons=true&locale=en" alt="amiraliliaqat" /> &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amiraliliaqat&show_icons=true&locale=en" alt="amiraliliaqat" /> </br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiraliliaqat&" alt="amiraliliaqat" /> </br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiraliliaqat&show_icons=true&locale=en&layout=compact" alt="amiraliliaqat" />
 </div>
