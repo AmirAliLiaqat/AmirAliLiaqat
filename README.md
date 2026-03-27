@@ -26,7 +26,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,express,mongodb,mysql,git,github,ts,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,express,mongodb,mysql,git,github,gitlab,ts,redux,postman,jira,mui,docker,vite,wordpress" />
 </p>
 
 ---
@@ -62,20 +62,8 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 
-  <a href="https://wa.me/923090886518">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="40"/>
-  </a>
-
   <a href="mailto:amirliaqat2020@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-
-  <a href="https://fb.com/mehar.amir.ali.liaqat">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
-  </a>
-
-  <a href="tel:+923090886518">
-    <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" height="40"/>
   </a>
 </p>
 
