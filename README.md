@@ -50,9 +50,33 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/amir-ali-liaqat"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://twitter.com/amirliaqat0309"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://instagram.com/amir.ali.liaqat"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://linkedin.com/in/amir-ali-liaqat">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+
+  <a href="https://twitter.com/amirliaqat0309">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  </a>
+
+  <a href="https://instagram.com/amir.ali.liaqat">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+
+  <a href="https://wa.me/923090886518">
+    <img src="https://skillicons.dev/icons?i=whatsapp" height="40"/>
+  </a>
+
+  <a href="mailto:amirliaqat2020@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+
+  <a href="https://fb.com/mehar.amir.ali.liaqat">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+  </a>
+
+  <a href="tel:+923090886518">
+    <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" height="40"/>
+  </a>
 </p>
 
 ---
