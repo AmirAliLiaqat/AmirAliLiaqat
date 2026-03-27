@@ -23,19 +23,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/AmirAliLiaqat/3D-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirAliLiaqat&repo=3D-portfolio&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/AmirAliLiaqat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirAliLiaqat&repo=your-best-project&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -47,15 +34,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amiraliliaqat&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=amiraliliaqat&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraliliaqat&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -64,22 +43,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiraliliaqat&theme=tokyo-night" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmirAliLiaqat/AmirAliLiaqat/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmirAliLiaqat&theme=onestar&no-frame=true&row=1&column=7" />
 </p>
 
 ---
